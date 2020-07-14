@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData">
+    <serverData>
+      <paths name="dmugnai@150.217.35.130:22 password">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/../pyspark-training" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="dmugnai@150.217.35.131:22 password">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/../pyspark-training" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="dmugnai@150.217.35.131:22 password (1)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/../pyspark-training" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="dmugnai@150.217.35.98:22">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/../pyspark-training" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
