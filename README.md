@@ -15,4 +15,4 @@ Final exercise of the course "Data Analytics with Apache Spark" by Gaetano Fabia
 ## Running
 * The script main.py extract in a txt file the words that are most used in films which have a rating greater than mean value and with number of rating greater than 100
 
-* The script main.py apply k-means clustering to the films based on rating. 
+* The script main_part_two.py apply k-means clustering to the films based on rating. 
